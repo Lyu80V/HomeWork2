@@ -1,0 +1,6 @@
+number_of_tasks=(12)
+time=(1.5)
+name=("Python")
+print(time/number_of_tasks)
+time_for_one_task=(0.125)
+print("Курс:",name,",всего задач:",number_of_tasks,".затрачено часов ",time,", среднее время выполнения ", time_for_one_task)
